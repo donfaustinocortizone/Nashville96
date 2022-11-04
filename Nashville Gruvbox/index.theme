@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nashville96 Gruvbox
+Type=X-GNOME-Metatheme
+Comment=A Windows like theme based on both Chicago 95 (for GTK3) and Redmond97 (for GTK2) adopting the infamous Gruvbox color scheme.
+
+[X-GNOME-Metatheme]
+GtkTheme=Nashville96 Gruvbox
+MetacityTheme=Nashville96 Gruvbox)
+IconTheme=Nashville96 Gruvbox
+CursorTheme=Nashville96 Gruvbox
+CursorSize=32
+
