@@ -12,7 +12,7 @@ A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for G
 Unlike Chicago95, the desktop icon colored labels come disabled by default. To revert that: 
 1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
 2. Open the `Nashville Gruvbox` folder, and then  navigate to `gtk-3.0/apps`.
-3. Open `xfce.css` with your editor of choise.
+3. Open `xfce.css` with your editor of choice.
 4. Under `XfdesktopIconView.view`, replace the `background: transparent;` line with `background: @xfd_icon_backdrop;`. It should look like this:
 	```
 	/* Xfdesktop */
@@ -20,9 +20,9 @@ Unlike Chicago95, the desktop icon colored labels come disabled by default. To r
 	  background: @xfd_icon_backdrop;
 	  color: @selected_bg_color;
 	  border-radius: 0px; }
-	  
 	```		
 5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
+If you are looking for some Windows-like icons i recommend to use the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
 		
 ### Screenshots
 
