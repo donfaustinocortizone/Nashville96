@@ -11,7 +11,7 @@
 
 /* Xfdesktop */
 XfdesktopIconView.view {
-/*  background: @xfd_icon_backdrop; */
+/* background: @xfd_icon_backdrop; */
   background: transparent;
   color: @selected_bg_color;
   border-radius: 0px; }
@@ -113,10 +113,10 @@ wnck-pager {
 
 /* Plugin buttons  */
 .xfce4-panel .toggle {
-/*  border: none;
+/* border: none;
   box-shadow: none;
   margin: 0px;
-  background-color: transparent; }  */
+  background-color: transparent; */
   margin-top: 2px;
   margin-bottom: 2px;
 }

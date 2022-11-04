@@ -36,8 +36,7 @@ button {
  /* border-top-color: @border_dark;
     border-right-color: @border_bright;
     border-left-color: @border_dark;
-    border-bottom-color: @border_bright;
-     */}
+    border-bottom-color: @border_bright; */}
 
 /* Sidebar buttons */
 button.sidebar-button {
@@ -146,8 +145,7 @@ toolbutton .toggle,
     border-top: 1px solid @border_dark;
     border-bottom: 1px solid @border_bright;
     border-right: 1px solid @border_bright;
-    box-shadow: inset 1px 1px @border_shade; 
-    */}
+    box-shadow: inset 1px 1px @border_shade; */}
   toolbutton .toggle:active,
   toolbutton .toggle:checked,
   .path-bar button:active,

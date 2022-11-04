@@ -32,9 +32,10 @@ If you are looking for  Windows-like icons i recommend to use either the [defaul
 	<figcaption>
 		<b>Extra information: </b>
 		<ul>
-			<li><b>Icons:</b> <a href="https://www.gnome-look.org/p/1012512/">Buuf</a>.</li>
-			<li><b>Cursor:</b> <a href="https://github.com/mdomlop/retrosmart-x11-cursors">Retrosmart</a>.</li>
+			<li><b>Icons:</b> <a href="https://github.com/nestoris/Win98SE">SE98</a>.</li>
+			<li><b>Cursor:</b> <a href="https://github.com/grassmunk/Chicago95/tree/master/Cursors/Chicago95_Cursor_Black">Chicago95 Black</a>.</li>
 			<li><b>Font:</b> <a href="https://terminus-font.sourceforge.net/">Terminus</a>.</li>
+			<li><b>Terminal Font:</b> <a href="https://laemeur.sdf.org/fonts/">Less Perfect DOS VGA</a>, you also can get some good vintage fonts <a href="https://int10h.org/oldschool-pc-fonts/">from here</a>.</li>
 			<li><b>Wallpaper:</b> Tile generated with <a href="https://bg.siteorigin.com/">Background Generator</a>.</li>
 			<li><b>Compositor:</b> <a href="https://github.com/yshui/picom">picom</a>.</li>
 		</ul>
