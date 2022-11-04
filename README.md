@@ -9,7 +9,7 @@ A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for G
 2. Select the theme with both Appearance and Window Manager. 
 
 ### Tips and tricks
-* Unlike Chicago95, the desktop icon colored labels come disabled by default. To revert that: 
+Unlike Chicago95, the desktop icon colored labels come disabled by default. To revert that: 
 1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
 2. Open the `Nashville Gruvbox` folder, and then  navigate to `gtk-3.0/apps`.
 3. Open `xfce.css` with your editor of choice.
@@ -23,7 +23,7 @@ A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for G
 	```		
 5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
 
-*If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
+If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
 		
 ### Screenshots
 <p align="center">
