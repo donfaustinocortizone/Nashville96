@@ -1,6 +1,7 @@
 # Nashville Gruvbox
 
-A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the famous color scheme. **Note:** This was made with XFCE on mind, so you may find issues if you are using another DE.
+A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the infamous Gruvbox color scheme. 
+**Note:** This was made with XFCE on mind, so you may find issues if you are using another DE.
 
 ### Screenshots
 
@@ -11,6 +12,7 @@ A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for G
 		<ul>
 			<li><b>Icons:</b> <a href="https://www.gnome-look.org/p/1012512/">Buuf</a>.</li>
 			<li><b>Font:</b> <a href="https://terminus-font.sourceforge.net/">Terminus</a>.</li>
+			<li><b>Compositor:</b> <a href="https://github.com/yshui/picom">picom</a>.</li>
 		</ul>
 	</figcaption>
 </p>
