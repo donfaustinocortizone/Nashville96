@@ -5,7 +5,7 @@ A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for G
 **Note:** This was made with XFCE on mind, so you may find issues if you are using another DE.
 
 ### Installation
-1. Download and unzip the latest release and copy the `Nashville Gruvbox` directory to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
+1. Download and unzip the latest release and copy the `Nashville Gruvbox` folder to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
 2. Select the theme with both Appearance and Window Manager. 
 
 ### Tips and tricks
