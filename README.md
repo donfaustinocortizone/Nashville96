@@ -11,6 +11,7 @@ A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for G
 		<b>Extra information: </b>
 		<ul>
 			<li><b>Icons:</b> <a href="https://www.gnome-look.org/p/1012512/">Buuf</a>.</li>
+			<li><b>Cursor:</b> <a href="https://github.com/mdomlop/retrosmart-x11-cursors">Retrosmart</a>.</li>
 			<li><b>Font:</b> <a href="https://terminus-font.sourceforge.net/">Terminus</a>.</li>
 			<li><b>Compositor:</b> <a href="https://github.com/yshui/picom">picom</a>.</li>
 		</ul>
