@@ -28,6 +28,7 @@ If you are looking for  Windows-like icons i recommend to use either the [defaul
 ### Screenshots
 <p align="center">
 	<img src="images/screenshot_1.png" alt="Screenshot 1"/>
+	<img src="images/screenshot_2.png" alt="Screenshot 2"/>
 	<figcaption>
 		<b>Extra information: </b>
 		<ul>
