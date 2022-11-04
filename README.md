@@ -5,11 +5,11 @@ A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for G
 **Note:** This was made with XFCE on mind, so you may find issues if you are using another DE.
 
 ### Installation
-1. Unzip the latest release and copy the `Nashville Gruvbox` directory to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
+1. Download and unzip the latest release and copy the `Nashville Gruvbox` directory to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
 2. Select the theme with both Appearance and Window Manager. 
 
 ### Tips and tricks
-Unlike Chicago95, the desktop icon colored labels come disabled by default. To revert that: 
+* Unlike Chicago95, the desktop icon colored labels come disabled by default. To revert that: 
 1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
 2. Open the `Nashville Gruvbox` folder, and then  navigate to `gtk-3.0/apps`.
 3. Open `xfce.css` with your editor of choice.
@@ -23,10 +23,9 @@ Unlike Chicago95, the desktop icon colored labels come disabled by default. To r
 	```		
 5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
 
-If you are looking for some Windows-like icons i recommend to use the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
+*If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
 		
 ### Screenshots
-
 <p align="center">
 	<img src="images/screenshot_1.png" alt="Screenshot 1"/>
 	<figcaption>
@@ -41,7 +40,6 @@ If you are looking for some Windows-like icons i recommend to use the [default C
 </p>
 
 ### Thanks to 
-
 - [@grassmunk](https://github.com/grassmunk) for [Chicago95](https://github.com/grassmunk/Chicago95).
 - [@matthewmx86](https://github.com/matthewmx86) for [Redmond97](https://github.com/matthewmx86/Redmond97).
 - [@morhetz](https://github.com/morhetz) for the [Gruvbox color scheme](https://github.com/morhetz/gruvbox).
