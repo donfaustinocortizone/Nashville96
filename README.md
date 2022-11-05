@@ -23,7 +23,7 @@ Unlike Chicago95, the desktop icon colored labels come disabled by default. To r
 	```		
 5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
 
-If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE). This may sound impopular but i think theme also looks fine with [these icons](https://www.pling.com/p/1911464/) or [the ones from this theme](https://github.com/TheGreatMcPain/gruvbox-material-gtk) since i find it as a mix between vintage and modern.
+If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE). This may sound unpopular but i think theme also looks fine with [these icons](https://www.pling.com/p/1911464/) or [the ones from this theme](https://github.com/TheGreatMcPain/gruvbox-material-gtk) since i find it as a mix between vintage and modern.
 		
 ### Screenshots
 <p align="center">
