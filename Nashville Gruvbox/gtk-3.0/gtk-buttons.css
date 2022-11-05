@@ -31,7 +31,7 @@ button {
   button:checked,
   button:disabled:active,
   button:disabled:checked {
-    border-color: @fg_color;
+    border-color: @selected_outline;
     box-shadow: inset 2px 2px @border_shade;
  /* border-top-color: @border_dark;
     border-right-color: @border_bright;
@@ -46,7 +46,7 @@ button.sidebar-button {
   box-shadow: inset 1px 1px @border_bright, inset -1px -1px @border_shade;
   transition: none; }
   button.sidebar-button:active {
-    border-color: @fg_color;
+    border-color: @selected_outline;
   }
   button.sidebar-button:hover,
   button.sidebar-button:checked,
@@ -77,11 +77,14 @@ button.sidebar-button {
 
 /* Row buttons */
 row:selected button:selected {
+  border-color: @selected_outline;
+  box-shadow: inset 2px 2px @border_shade;
+  /*
   border-top-color: @border_dark;
   border-right-color: @border_bright;
   border-left-color: @border_dark;
   border-bottom-color: @border_bright;
-  box-shadow: inset 1px 1px @border_shade; }
+  box-shadow: inset 1px 1px @border_shade; */ }
 
 /* Stack switcher buttons */
 .stack-switcher > button {
@@ -139,7 +142,7 @@ toolbutton .toggle,
   .primary-toolbar button:checked,
   toolbutton button:checked,
   .path-bar button:checked {
-    border-color: @fg_color;
+    border-color: @selected_outline;
     box-shadow: inset 2px 2px @border_shade; 
     /*border-left: 1px solid @border_dark;
     border-top: 1px solid @border_dark;
