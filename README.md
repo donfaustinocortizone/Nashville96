@@ -31,12 +31,13 @@ If you are looking for  Windows-like icons i recommend to use either the [defaul
 ### Screenshots
 <p align="center">
 	<img src="images/screenshot_1.png" alt="Screenshot 1"/>
+	<img src="images/screenshot_2.png" alt="Screenshot 2"/>
 	<figcaption>
 		<b>Extra information: </b>
 		<ul>
 			<li><b>Icons:</b> <a href="https://github.com/nestoris/Win98SE">SE98</a>.</li>
 			<li><b>Cursor:</b> <a href="https://github.com/grassmunk/Chicago95/tree/master/Cursors/Chicago95_Cursor_Black">Chicago95 Black</a>.</li>
-			<li><b>Font:</b> <a href="https://terminus-font.sourceforge.net/">Terminus</a>.</li>
+			<li><b>Font:</b> <a href="hhttps://en.wikipedia.org/wiki/Tahoma_(typeface)">Tahoma</a>.</li>
 			<li><b>Terminal Font:</b> <a href="https://laemeur.sdf.org/fonts/">Less Perfect DOS VGA</a>, you can also get some good vintage fonts <a href="https://int10h.org/oldschool-pc-fonts/">from here</a>.</li>
 			<li><b>Wallpaper:</b> Tile generated with <a href="https://bg.siteorigin.com/">Background Generator</a>.</li>
 			<li><b>Compositor:</b> <a href="https://github.com/yshui/picom">picom</a>.</li>
