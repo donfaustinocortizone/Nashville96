@@ -12,7 +12,7 @@ Make sure that all changes made here are part of the Caja application.
 .caja-desktop-window .rubberband,
 .caja-navigation-window .rubberband {
   border: 1px solid @selected_bg_color;
-  background: rgba(60,56,54,0.5); }
+  background: rgba(54,54,70,0.5); }
 
 /* This will prevent caja from printing over the desktop wallpaper */
 .caja-desktop-window grid scrolledwindow {

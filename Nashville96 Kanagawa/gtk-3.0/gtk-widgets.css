@@ -442,7 +442,7 @@ flowbox rubberband,
 treeview.view rubberband,
 .content-view rubberband {
   border: 1px dotted @border_color;
-  background: rgba(60,56,54,0.5); ;
+  background: rgba(54,54,70,0.5);
   border-radius: 0px; }
 
 /* Misc stuff */

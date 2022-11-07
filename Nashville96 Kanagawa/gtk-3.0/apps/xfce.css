@@ -24,7 +24,7 @@ XfdesktopIconView.view {
     color: @font_bright; }
   XfdesktopIconView.view .rubberband {
     border: 1px dotted @xfd_rubberband_outline;
-    background: rgba(60,56,54,0.01); }
+    background: rgba(54,54,70,0.01); }
 
 /* XFCE Panel Bar */
 .xfce4-panel {
