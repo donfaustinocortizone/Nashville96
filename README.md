@@ -26,7 +26,7 @@ Unlike Chicago95, the desktop icon colored labels come disabled by default. To r
 	```		
 5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
 
-If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE). This may sound unpopular but i think the themes also look fine with [these icons](https://www.pling.com/p/1911464/) or [the ones from this theme](https://github.com/TheGreatMcPain/gruvbox-material-gtk) since i find it as a mix between vintage and modern.
+If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
 		
 ### Screenshots
 <p align="center">
@@ -37,7 +37,7 @@ If you are looking for  Windows-like icons i recommend to use either the [defaul
 		<ul>
 			<li><b>Icons:</b> <a href="https://github.com/nestoris/Win98SE">SE98</a>.</li>
 			<li><b>Cursor:</b> <a href="https://github.com/grassmunk/Chicago95/tree/master/Cursors/Chicago95_Cursor_Black">Chicago95 Black</a>.</li>
-			<li><b>Font:</b> <a href="hhttps://en.wikipedia.org/wiki/Tahoma_(typeface)">Tahoma</a>.</li>
+			<li><b>Font:</b> <a href="https://en.wikipedia.org/wiki/Tahoma_(typeface)">Tahoma</a>.</li>
 			<li><b>Terminal Font:</b> <a href="https://laemeur.sdf.org/fonts/">Less Perfect DOS VGA</a>, you can also get some good vintage fonts <a href="https://int10h.org/oldschool-pc-fonts/">from here</a>.</li>
 			<li><b>Wallpaper:</b> Tile generated with <a href="https://bg.siteorigin.com/">Background Generator</a>.</li>
 			<li><b>Compositor:</b> <a href="https://github.com/yshui/picom">picom</a>.</li>
