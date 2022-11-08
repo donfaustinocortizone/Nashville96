@@ -43,6 +43,7 @@ In order to make the theme more accurate, the icons from the pop-up menus were d
 	**Note:** If you want to disable the icons again, just uncomment or readd that line.
 
 **Disable CSD**
+
 If you want a more coherent look, you can use [GTK3 classic](https://github.com/lah7/gtk3-classic) or/and [libxfce4ui-nocsd](https://github.com/Xfce-Classic/libxfce4ui-nocsd).
 
 **Windows icons**
