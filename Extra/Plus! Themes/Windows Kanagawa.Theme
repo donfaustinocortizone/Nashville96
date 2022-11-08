@@ -1,0 +1,111 @@
+[Software\Classes\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%WinDir%Explorer.exe,0
+[Software\Classes\CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%shell32.dll,17
+[Software\Classes\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%ThemeDir%shell32.dll,32
+empty=%ThemeDir%shell32.dll,31
+[Software\Classes\CLSID\{450D8FBA-AD25-11D0-98A8-0800361B1103}\DefaultIcon]
+DefaultValue=%ThemeDir%mydocs.dll
+[Control Panel\Cursors]
+Arrow=
+Help=
+AppStarting=
+Wait=
+NWPen=
+No=
+SizeNS=
+SizeWE=
+Crosshair=
+IBeam=
+SizeNWSE=
+SizeNESW=
+SizeAll=
+UpArrow=
+DefaultValue=
+[Control Panel\Desktop]
+Wallpaper=
+Pattern=(Nenhum)
+TileWallpaper=0
+WallpaperStyle=2
+[AppEvents\Schemes\Apps\.Default\.Default\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\MenuPopup\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Open\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Close\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\MailBeep\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\RingIn\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Ringout\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemDefault\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+DefaultValue=
+[Metrics]
+IconMetrics=4 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 168 224 6 0 183 84 51 124 124 1 0 0 0 0 0 0 192 224 6 0 96 106 1 1  
+NonclientMetrics=4 0 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 16 121 9 0 224 221 6 0 136 6 7 0 152 222 6 0 116 126 251 119 88 49 248 119 15 0 0 0 15 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 4 0 0 0 0 0 0 0 22 0 0 0 22 0 0 0 16 223 6 0 1 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 0 0 7 0 120 1 7 0 43 186 252 119 8 6 7 0 177 185 252 119 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 165 58 88 124 0 0 7 0 120 1 7 0 120 1 7 0 120 1 7 0 120 1 7 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 119 0 0 7 0 40 209 8 0 48 209 8 0 232 222 6 0 136 6 7 0 160 223 6 0  
+[Control Panel\Colors]
+ActiveTitle=31 31 40
+Background=31 31 40
+Hilight=101 133 148
+HilightText=34 50 73
+TitleText=220 215 186
+Window=22 22 29
+WindowText=220 215 186
+Scrollbar=47 47 60
+InactiveTitle=22 22 29
+Menu=31 31 40
+WindowFrame=220 215 186
+MenuText=220 215 186
+ActiveBorder=220 215 186
+InactiveBorder=31 31 40
+AppWorkspace=21 21 27
+ButtonFace=31 31 40
+ButtonShadow=22 22 29
+GrayText=113 124 124
+ButtonText=220 215 186
+InactiveTitleText=42 42 55
+ButtonHilight=42 42 55
+ButtonDkShadow=42 42 55
+ButtonLight=31 31 40
+InfoText=220 215 186
+InfoWindow=34 50 73
+GradientActiveTitle=31 31 40
+GradientInactiveTitle=22 22 29
+[boot]
+SCRNSAVE.EXE=
+[WebView]
+WVLEFT.BMP=Z:\ARCHIVO\TEMAS DE WINDOWS\Plus! ready themes\Windows Kanagawa V2 WVLEFT.BMP
+WVLINE.GIF=Z:\ARCHIVO\TEMAS DE WINDOWS\Plus! ready themes\Windows Kanagawa V2 WVLINE.GIF
+WVLOGO.GIF=Z:\ARCHIVO\TEMAS DE WINDOWS\Plus! ready themes\Windows Kanagawa V2 WVLOGO.GIF
+[MasterThemeSelector]
+MTSM=DABJDKT

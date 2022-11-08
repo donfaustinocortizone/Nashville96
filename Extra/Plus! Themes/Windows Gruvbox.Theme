@@ -1,0 +1,111 @@
+[Software\Classes\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%WinDir%Explorer.exe,0
+[Software\Classes\CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%shell32.dll,17
+[Software\Classes\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%ThemeDir%shell32.dll,32
+empty=%ThemeDir%shell32.dll,31
+[Software\Classes\CLSID\{450D8FBA-AD25-11D0-98A8-0800361B1103}\DefaultIcon]
+DefaultValue=%ThemeDir%mydocs.dll
+[Control Panel\Cursors]
+Arrow=
+Help=
+AppStarting=
+Wait=
+NWPen=
+No=
+SizeNS=
+SizeWE=
+Crosshair=
+IBeam=
+SizeNWSE=
+SizeNESW=
+SizeAll=
+UpArrow=
+DefaultValue=
+[Control Panel\Desktop]
+Wallpaper=
+Pattern=(Nenhum)
+TileWallpaper=0
+WallpaperStyle=2
+[AppEvents\Schemes\Apps\.Default\.Default\.Current]
+DefaultValue=%WinDir%media\ding.wav
+[AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\MenuPopup\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Open\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Close\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\MailBeep\.Current]
+DefaultValue=%WinDir%media\notify.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\RingIn\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Ringout\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+DefaultValue=chord.wav
+[AppEvents\Schemes\Apps\.Default\SystemDefault\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+DefaultValue=chord.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+DefaultValue=chord.wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+DefaultValue=chord.wav
+[AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
+DefaultValue=Sonido de entrada de Windows.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+DefaultValue=ding.wav
+[Metrics]
+IconMetrics=4 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 204 224 6 0 62 75 1 121 108 1 0 0 0 0 0 0 228 224 6 0 96 106 1 1 
+NonclientMetrics=4 0 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 120 103 9 0 4 222 6 0 136 6 7 0 188 222 6 0 100 126 73 120 88 49 70 120 12 0 0 0 15 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 16 0 0 0 0 0 0 0 112 0 0 0 112 0 0 0 0 0 7 0 1 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 0 0 7 0 120 1 7 0 43 186 74 120 8 6 7 0 177 185 74 120 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 101 58 70 121 0 0 7 0 192 245 9 0 120 1 7 0 192 245 9 0 120 1 7 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 120 0 0 7 0 56 152 8 0 64 152 8 0 12 223 6 0 136 6 7 0 196 223 6 0 
+[Control Panel\Colors]
+ActiveTitle=40 40 40
+Background=50 48 47
+Hilight=80 73 69
+HilightText=245 226 167
+TitleText=235 219 178
+Window=29 32 33
+WindowText=235 219 178
+Scrollbar=80 73 69
+InactiveTitle=29 32 33
+Menu=40 40 40
+WindowFrame=124 111 100
+MenuText=235 219 178
+ActiveBorder=189 174 147
+InactiveBorder=40 40 40
+AppWorkspace=27 27 27
+ButtonFace=40 40 40
+ButtonShadow=27 27 27
+GrayText=27 27 27
+ButtonText=235 219 178
+InactiveTitleText=168 153 132
+ButtonHilight=60 60 60
+ButtonDkShadow=64 64 64
+ButtonLight=40 40 40
+InfoText=60 56 54
+InfoWindow=213 196 161
+GradientActiveTitle=40 40 40
+GradientInactiveTitle=29 32 33
+[boot]
+SCRNSAVE.EXE=
+[WebView]
+WVLEFT.BMP=Z:\Proyectos\GitHub\Nashville96\Extra\Plus! Themes\Windows Gruvbox WVLEFT.BMP
+WVLINE.GIF=Z:\Proyectos\GitHub\Nashville96\Extra\Plus! Themes\Windows Gruvbox WVLINE.GIF
+WVLOGO.GIF=Z:\Proyectos\GitHub\Nashville96\Extra\Plus! Themes\Windows Gruvbox WVLOGO.GIF
+[MasterThemeSelector]
+MTSM=DABJDKT
