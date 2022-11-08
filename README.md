@@ -31,6 +31,8 @@ Unlike Chicago95, the desktop icon labels come disabled by default. To revert th
 
 **Enable right click menu icons**
 
+**Note:** I realize that if the icons from the pop-up menus are disabled, the icons from the default applications menu (not the Whisker one) will be gone too. If you intend to use the default applications menu, please do the next tutorial although the pop-up menu icons will be back:
+
 In order to make the theme more accurate, the icons from the pop-up menus were disabled. If you want them again, then follow the next steps:
 1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
 2. Open the folder of the theme you want to change, and then  navigate to `gtk-3.0`.
@@ -43,6 +45,7 @@ In order to make the theme more accurate, the icons from the pop-up menus were d
 	**Note:** If you want to disable the icons again, just uncomment or readd that line.
 
 **Disable CSD**
+
 If you want a more coherent look, you can use [GTK3 classic](https://github.com/lah7/gtk3-classic) or/and [libxfce4ui-nocsd](https://github.com/Xfce-Classic/libxfce4ui-nocsd).
 
 **Windows icons**
