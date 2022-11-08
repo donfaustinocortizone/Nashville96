@@ -24,12 +24,21 @@ window > menu {
 
 /* NOTE: Menu border styling is moved to client side decorations. See gtk-window.css for menu border styling. */
 menu {
+  box-shadow: inset 1px 1px @border_bright, inset -1px -1px @border_shade;
+  border-top: 1px solid @border_color;
+  border-left: 1px solid @border_color;
+  border-bottom: 1px solid @border_dark;
+  border-right: 1px solid @border_dark;
   background-color: @menu_bg_color;    /* NOTE: While a background colour is required here, there will be a 2px internal padding applied to window decorations which will also have a background colour too. */ 
   color: @menu_text_color;
   text-shadow: none;
   -gtk-icon-shadow: none;
-  -gtk-icon-style: regular }
+  -gtk-icon-style: regular; }
+  menu image, menu menuitem image {
+    -gtk-icon-transform: scale(0); }
   menu menuitem {
+    margin-right: 2px;
+    margin-left: 3px;
     padding: 3px 2px;
     background-color: transparent; }
     menu menuitem check,
@@ -39,6 +48,10 @@ menu {
     menuitem:hover {
       background-color: @theme_selected_bg_color;
       color: @selected_fg_color; }
+  menu menuitem:first-child { 
+    margin-top: 3px; } 
+  menu menuitem:last-child { 
+    margin-bottom: 2px; }  
 
 /* menubar */
 menubar, 
@@ -57,8 +70,8 @@ menu separator {
   margin-left: -5px;
   margin-right: -5px;
   border: none;
-  border-left: 4px solid transparent;
-  border-right: 4px solid transparent;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
   border-top: 1px solid transparent;
   border-bottom: 2px solid transparent;
   background-image: url("assets/handle-h.png");
