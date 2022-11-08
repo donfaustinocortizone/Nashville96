@@ -12,7 +12,10 @@ A collection of Windows-like GTK themes based on both Chicago95 (for GTK3) and R
 2. Select the theme with both Appearance and Window Manager. 
 
 ### Tips and tricks
-Unlike Chicago95, the desktop icon colored labels come disabled by default. To revert that: 
+
+**Desktop icon labels**
+
+Unlike Chicago95, the desktop icon labels come disabled by default. To revert that: 
 1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
 2. Open the folder of the theme you want to change, and then  navigate to `gtk-3.0/apps`.
 3. Open `xfce.css` with your editor of choice.
@@ -25,6 +28,21 @@ Unlike Chicago95, the desktop icon colored labels come disabled by default. To r
 	  border-radius: 0px; }
 	```		
 5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
+
+**Enable right click menu icons**
+
+In order to make the theme more accurate, the icons from the pop-up menus were disabled. If you want them again, then follow the next steps:
+1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
+2. Open the folder of the theme you want to change, and then  navigate to `gtk-3.0`.
+3. Open `gtk-menu.css` with your editor of choice.
+4. Under the `menu` selector, comment or delete the following line:
+	```
+	menu image, menu menuitem image {
+   		 -gtk-icon-transform: scale(0); }
+	```
+	**Note:** If you want to disable the icons again, just uncomment or readd that line.
+
+**Windows icons**
 
 If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
 		
