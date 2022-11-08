@@ -42,6 +42,9 @@ In order to make the theme more accurate, the icons from the pop-up menus were d
 	```
 	**Note:** If you want to disable the icons again, just uncomment or readd that line.
 
+**Disable CSD**
+If you want a more coherent look, you can use [GTK3 classic](https://github.com/lah7/gtk3-classic) or/and [libxfce4ui-nocsd](https://github.com/Xfce-Classic/libxfce4ui-nocsd).
+
 **Windows icons**
 
 If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
