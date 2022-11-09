@@ -35,10 +35,13 @@ menu {
   -gtk-icon-shadow: none;
   -gtk-icon-style: regular; }
   menu image, menu menuitem image {
-    -gtk-icon-transform: scale(0); }
+   /* -gtk-icon-transform: scale(0); */
+	margin-left: 3px; } 
   menu menuitem {
     margin-right: 2px;
     margin-left: 3px;
+    /*margin-top: 3px;
+    margin-bottom: 3px; */
     padding: 3px 2px;
     background-color: transparent; }
     menu menuitem check,
@@ -51,7 +54,7 @@ menu {
   menu menuitem:first-child { 
     margin-top: 3px; } 
   menu menuitem:last-child { 
-    margin-bottom: 2px; }  
+    margin-bottom: 3px; }  
 
 /* menubar */
 menubar, 
