@@ -1,8 +1,7 @@
-# Name: Chicago95 xfwm4 Theme
-# Author: Grassmunk
+# Name: Nashville96 Gruvbox xfwm4 Theme
+# Author: donfaustinocortizone
 # License: GPL-3.0+
-# Changed slightly from Redmond to allow for a 
-# Rewritten 2020 to match whats happening in Windows 95 
+# Changed from Chicago95
 
 #activetitle
 active_color_1=#282828

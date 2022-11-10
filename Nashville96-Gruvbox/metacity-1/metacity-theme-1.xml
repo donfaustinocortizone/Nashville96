@@ -86,34 +86,34 @@ Notes: Modified from WinME theme by Perberos.
 		<piece position="left_edge">
 			<draw_ops>
 				<rectangle color="gtk:bg[NORMAL]" x="0" y="0" width="width" height="height" filled="true"/>
-				<line color="#ffffff" x1="1" y1="0" x2="1" y2="height" width="1"/>
+				<line color="#bdae93" x1="1" y1="0" x2="1" y2="height" width="1"/>
 			</draw_ops>
 		</piece>
 		<piece position="right_edge">
 			<draw_ops>
 				<rectangle color="gtk:bg[NORMAL]" x="0" y="0" width="width" height="height" filled="true"/>
-				<line color="#808080" x1="width-2" y1="0" x2="width-2" y2="height" width="1"/>
-				<line color="#000000" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
+				<line color="#bdae93" x1="width-2" y1="0" x2="width-2" y2="height" width="1"/>
+				<line color="#282828" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
 			</draw_ops>
 		</piece>
 		<piece position="bottom_edge">
 			<draw_ops>
 				<rectangle color="gtk:bg[NORMAL]" x="0" y="0" width="width" height="height" filled="true"/>
-				<line color="#808080" x1="1" y1="height-2" x2="width" y2="height-2" width="1"/>
-				<line color="#000000" x1="0" y1="height-1" x2="width" y2="height-1" width="1"/>
-				<line color="#ffffff" x1="1" y1="0" x2="1" y2="height-2" width="1"/>
-				<line color="#000000" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
-				<line color="#808080" x1="width-2" y1="0" x2="width-2" y2="height-2" width="1"/>
+				<line color="#bdae93" x1="1" y1="height-2" x2="width" y2="height-2" width="1"/>
+				<line color="#282828" x1="0" y1="height-1" x2="width" y2="height-1" width="1"/>
+				<line color="#bdae93" x1="1" y1="0" x2="1" y2="height-2" width="1"/>
+				<line color="#282828" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
+				<line color="#bdae93" x1="width-2" y1="0" x2="width-2" y2="height-2" width="1"/>
 			</draw_ops>
 		</piece>
 		<piece position="titlebar">
 			<draw_ops>
 				<rectangle color="gtk:bg[NORMAL]" x="0" y="0" width="width" height="height" filled="true"/>
-				<line color="#ffffff" x1="1" y1="1" x2="1" y2="height" width="1"/>
-				<line color="#ffffff" x1="1" y1="1" x2="width-2" y2="1" width="1"/>
-				<line color="#000000" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
-				<line color="#808080" x1="width-2" y1="1" x2="width-2" y2="height" width="1"/>
-                <rectangle color="gtk:bg[SELECTED]" x="4" y="4" width="width-8" height="height-5" filled="true"/>
+				<line color="#bdae93" x1="1" y1="1" x2="1" y2="height" width="1"/>
+				<line color="#bdae93" x1="1" y1="1" x2="width-2" y2="1" width="1"/>
+				<line color="#282828" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
+				<line color="#bdae93" x1="width-2" y1="1" x2="width-2" y2="height" width="1"/>
+                <rectangle color="#282828" x="4" y="4" width="width-8" height="height-5" filled="true"/>
 			</draw_ops>
 		</piece>
 
@@ -159,7 +159,7 @@ Notes: Modified from WinME theme by Perberos.
 		</button>
 		<piece position="title">
 			<draw_ops>
-				<title x="3" y="2" color="#ffffff"/>
+				<title x="3" y="2" color="#ebdbb2"/>
 			</draw_ops>
 		</piece>
 	</frame_style>
@@ -167,7 +167,7 @@ Notes: Modified from WinME theme by Perberos.
 	<frame_style name="normal(maximized)_focused_style" geometry="borderless_geometry" parent="normal_focused_style">
 		<piece position="titlebar">
 			<draw_ops>
-                <rectangle color="gtk:bg[SELECTED]" x="0" y="0" width="width-0" height="height-0" filled="true"/>
+                <rectangle color="#282828" x="0" y="0" width="width-0" height="height-0" filled="true"/>
 			</draw_ops>
 		</piece>
 		<button function="maximize" state="normal">
@@ -186,12 +186,12 @@ Notes: Modified from WinME theme by Perberos.
 	<frame_style name="normal_unfocused_style" geometry="normal_geometry" parent="normal_focused_style">
 		<piece position="titlebar">
 			<draw_ops>
-				<rectangle color="gtk:bg[NORMAL]" x="0" y="0" width="width" height="height" filled="true"/>
-				<line color="#ffffff" x1="1" y1="1" x2="1" y2="height" width="1"/>
-				<line color="#ffffff" x1="1" y1="1" x2="width-2" y2="1" width="1"/>
-				<line color="#000000" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
-				<line color="#808080" x1="width-2" y1="1" x2="width-2" y2="height" width="1"/>
-                <rectangle color="#808080" x="4" y="4" width="width-8" height="height-5" filled="true"/>
+				<rectangle color="#1d2021" x="0" y="0" width="width" height="height" filled="true"/>
+				<line color="#bdae93" x1="1" y1="1" x2="1" y2="height" width="1"/>
+				<line color="#bdae93" x1="1" y1="1" x2="width-2" y2="1" width="1"/>
+				<line color="#282828" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
+				<line color="#bdae93" x1="width-2" y1="1" x2="width-2" y2="height" width="1"/>
+                <rectangle color="#1d2021" x="4" y="4" width="width-8" height="height-5" filled="true"/>
 			</draw_ops>
 		</piece>
 		<piece position="title">
@@ -204,7 +204,7 @@ Notes: Modified from WinME theme by Perberos.
 	<frame_style name="normal(maximized)_unfocused_style" geometry="borderless_geometry" parent="normal_unfocused_style">
 		<piece position="titlebar">
 			<draw_ops>
-                <rectangle color="#808080" x="0" y="0" width="width-0" height="height-0" filled="true"/>
+                <rectangle color="#1d2021" x="0" y="0" width="width-0" height="height-0" filled="true"/>
 			</draw_ops>
 		</piece>
 		<button function="maximize" state="normal">
