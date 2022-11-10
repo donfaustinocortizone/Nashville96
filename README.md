@@ -3,7 +3,7 @@
 	<img src="images/nashville96_logo.png" alt="Screenshot 1"/>
 </p>
 
-A collection of Windows-like GTK themes based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating some infamous color schemes. 
+A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some infamous color schemes. 
 
 **Note:** This was made with XFCE on mind, so you may find issues if you are using another DE.
 
