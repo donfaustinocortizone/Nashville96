@@ -13,11 +13,10 @@
   # author: donfaustinocortizone/donfaustino (author of the theme variant)
   # author: Grassmunk (author of Chicago 95)
   # author: matthewmx86 (author of Redmond97)
-  # author: morhetz (author of the Gruvbox color scheme)
+  # author: rebelot (author of the Kanagawa color scheme)
   # date: November 5th, 2022
   # description: A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the Kanagawa color scheme.
 */
-
 
 /* default color scheme */
 @define-color bg_color #1f1f28; /* Window Theme: buttonface */

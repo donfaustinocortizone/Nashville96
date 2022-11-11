@@ -1,13 +1,13 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Nashville Kanagawa
+Name=Nashville96-Kanagawa
 Type=X-GNOME-Metatheme
-Comment=A theme with Windows from 1995.
+Comment=A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the Kanagawa color scheme.
 
 [X-GNOME-Metatheme]
-GtkTheme=Nashville Kanagawa
-MetacityTheme=Nashville Kanagawa
-IconTheme=Nashville Kanagawa
-CursorTheme=Nashville Kanagawa
+GtkTheme=Nashville96-Kanagawa
+MetacityTheme=Nashville96-Kanagawa
+IconTheme=SE98
+CursorTheme=Chicago95 Black
 CursorSize=32
 
