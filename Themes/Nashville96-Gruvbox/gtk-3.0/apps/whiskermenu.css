@@ -104,7 +104,7 @@ the whisker menu without having to correct their pointer location. */
 /*    background-image: url("../assets/branding_L95.png"); */
 /*    background-image: url("../assets/branding_L95_aliased.png"); */
 /*    background-image: url("../assets/branding_C95.png"); */
-    background-image: url("../assets/branding_C95_aliased.png");
+    background-image: url("../assets/branding_L95_aliased.png");
     background-repeat: no-repeat;
     background-position: 0% 100%; }
     #whiskermenu-window frame > stack,
@@ -119,7 +119,7 @@ the whisker menu without having to correct their pointer location. */
       #whiskermenu-window frame scrolledwindow button:hover,
       #whiskermenu-window frame scrolledwindow button:active,
       #whiskermenu-window frame scrolledwindow button:checked {
-        color: white; }
+        color: @selected_fg_color; }
     #whiskermenu-window frame > box > box > box button image {
       padding: 0px; }
   #whiskermenu-window entry {
