@@ -18,7 +18,7 @@ viewport textview,
 viewport list.tweak-group,
 viewport list.tweak-categories {
   background-color: @bg_bright;
-  color: black; }
+  color: @fg_color; }
   viewport row {
     padding: 1px;
     min-height: 20px; }

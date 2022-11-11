@@ -47,10 +47,10 @@ treeview entry {
 treeview.view {
   padding: 0px;
   padding-left: 1px;
-  border-left-color: @border_shade;
-  border-top-color: @border_shade; }
+  border-left-color: @fg_color;
+  border-top-color: @fg_color; }
 treeview.view:selected {
-  border-left-color: @border_bright; }
+  border-left-color: @theme_selected_fg_color; }
 
 /* Hey Windows95 didn't have arrows in the headerbar either! */
 treeview.view image {
