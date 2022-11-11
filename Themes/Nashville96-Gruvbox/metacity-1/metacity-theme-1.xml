@@ -196,7 +196,7 @@ Notes: Modified from WinME theme by Perberos.
 		</piece>
 		<piece position="title">
 			<draw_ops>
-				<title x="3" y="2" color="gtk:bg[NORMAL]"/>
+				<title x="3" y="2" color="#a89984"/>
 			</draw_ops>
 		</piece>
 	</frame_style>
@@ -218,11 +218,11 @@ Notes: Modified from WinME theme by Perberos.
 		<piece position="entire_background">
 			<draw_ops>
 				<rectangle color="gtk:bg[NORMAL]" x="0" y="0" width="width" height="height" filled="true"/>
-				<rectangle color="#ffffff" x="1" y="1" width="width-3" height="height-3" filled="false"/>
-				<line color="#808080" x1="width-2" y1="1" x2="width-2" y2="height-3"/>
-				<line color="#808080" x1="1" y1="height-2" x2="width-2" y2="height-2"/>
-				<line color="#000000" x1="width-1" y1="0" x2="width-1" y2="height-1"/>
-				<line color="#808080" x1="0" y1="height-1" x2="width-1" y2="height-1"/>
+				<rectangle color="#ebdbb2" x="1" y="1" width="width-3" height="height-3" filled="false"/>
+				<line color="#bdae93" x1="width-2" y1="1" x2="width-2" y2="height-3"/>
+				<line color="#bdae93" x1="1" y1="height-2" x2="width-2" y2="height-2"/>
+				<line color="#282828" x1="width-1" y1="0" x2="width-1" y2="height-1"/>
+				<line color="#bdae93" x1="0" y1="height-1" x2="width-1" y2="height-1"/>
 			</draw_ops>
 		</piece>
 
@@ -259,7 +259,7 @@ Notes: Modified from WinME theme by Perberos.
 	<frame_style name="utility_unfocused_style" geometry="utility_geometry" parent="utility_focused_style">
 		<piece position="titlebar">
 			<draw_ops>
-                <rectangle color="#808080" x="0" y="0" width="width-0" height="height-0" filled="true"/>
+                <rectangle color="#bdae93" x="0" y="0" width="width-0" height="height-0" filled="true"/>
 			</draw_ops>
 		</piece>
 		<piece position="title">
