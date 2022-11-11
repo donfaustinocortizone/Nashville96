@@ -5,7 +5,7 @@
 
 A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some infamous color schemes. 
 
-**Note:** This was made with XFCE on mind, so you may find issues if you are using another DE.
+**Note:** This was made with both XFCE and MATE on mind, so you may find issues if you are using another DE.
 
 ### Installation
 1. Download and unzip the latest release and copy the folder of your theme of choice to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
