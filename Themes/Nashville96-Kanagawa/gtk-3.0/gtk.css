@@ -62,7 +62,6 @@
 @define-color inactive_title_text_color #54546D; /* Windows Theme: inactivetitletext */
 @define-color selected_outline #54546d; /* Selection button outline/frame color */
 
-
 /* dark color scheme */
 @define-color dark_bg_color @bg_color;
 @define-color dark_fg_color @fg_color;
