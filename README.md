@@ -34,20 +34,19 @@ Unlike Chicago95, the desktop icon labels come disabled by default. To revert th
 	```		
 5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
 
-**Enable right click menu icons**
+**Disable right click menu icons**
 
-**Note:** I realize that if the icons from the pop-up menus are disabled, the icons from the default applications menu (not the Whisker one) will be gone too. If you intend to use the default applications menu, please do the next tutorial although the pop-up menu icons will be back:
+**Warning:** Doing this will disable the icons from the default applications menu too (not the Whisker menu).
 
-In order to make the theme more accurate, the icons from the pop-up menus were disabled. If you want them again, then follow the next steps:
+If you want a more accurate experience, you can disable the icons from the right-click menus. To do that, follow this:
 1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
 2. Open the folder of the theme you want to change, and then  navigate to `gtk-3.0`.
 3. Open `gtk-menu.css` with your editor of choice.
-4. Under the `menu` selector, comment or delete the following line:
+4. Under the `menu image, menu menuitem image` selector (inside the `menu` parent selector), uncomment or add the following line:
 	```
-	menu image, menu menuitem image {
-   		 -gtk-icon-transform: scale(0); }
+   		 -gtk-icon-transform: scale(0);
 	```
-	**Note:** If you want to disable the icons again, just uncomment or readd that line.
+	**Note:** If you want to disable the icons again, just comment or delete that line.
 
 **Disable CSD**
 

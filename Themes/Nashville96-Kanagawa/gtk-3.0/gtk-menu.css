@@ -36,7 +36,7 @@ menu {
   -gtk-icon-style: regular; }
   menu image, menu menuitem image {
    /* -gtk-icon-transform: scale(0); */
-	margin-left: 3px; } 
+	     margin-left: 3px; } 
   menu menuitem {
     margin-right: 2px;
     margin-left: 3px;
