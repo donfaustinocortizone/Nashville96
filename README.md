@@ -13,7 +13,8 @@ A collection of Windows-like GTK themes based on both [Chicago95](https://github
 - **Nashville96 Steam:** Included as a bonus, a theme i made ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made enterily in Redmond97 so the tricks at the *Tips and tricks* section may not work.
 
 ### Installation
-1. Download and unzip the latest release and copy the folder of your theme of choice to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
+1. Download and unzip the latest release.
+2. Copy the folder of your theme of choice to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
 2. Select the theme with both Appearance and Window Manager. 
 
 ### Tips and tricks
@@ -46,7 +47,7 @@ If you want a more accurate experience, you can disable the icons from the right
 	```
    		 -gtk-icon-transform: scale(0);
 	```
-	**Note:** If you want to disable the icons again, just comment or delete that line.
+	**Note:** If you want to enable the icons again, just comment or delete that line.
 
 **Disable CSD**
 
