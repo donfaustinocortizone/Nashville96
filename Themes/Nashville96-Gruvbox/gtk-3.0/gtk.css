@@ -56,7 +56,7 @@
 @define-color scrollbar_trough_bg_color #534945; /* Window theme: scrollbar, also controls task bar background color, per windows 95 themes */
 @define-color scrollbar_bg_color @button_bg_color; /* Window theme: (scrollbar) buttonface */
 @define-color scrollbar_solid_color @bg_color; /* Window Theme: Scrollbar, this is only if you want the scrollbar trough solid color */
-@define-color window_title_bg_color #665c54; /* Windows Theme: activetitle */
+@define-color window_title_bg_color #282828; /* Windows Theme: activetitle */
 @define-color window_title_text_color #ebdbb2;  /* Windows Theme: titletext */
 @define-color inactive_title_bg_color #1d2021; /* Windows Theme: inactivetitle */
 @define-color inactive_title_text_color #a89984; /* Windows Theme: inactivetitletext */
