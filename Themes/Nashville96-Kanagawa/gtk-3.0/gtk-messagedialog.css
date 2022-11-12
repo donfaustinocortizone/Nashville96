@@ -15,10 +15,8 @@ messagedialog .titlebar {
   border-top-color: @border_light;
   border-right-color: @border_dark;
   border-left-color: @border_light;
-  border-bottom-color: @bg_color;
-/*  box-shadow: inset 1px 1px @border_bright, inset -1px 0px @border_shade; } */
+  border-bottom-color: @bg_color; }
 messagedialog .dialog-vbox {
   border-bottom: 1px solid @border_dark;
   border-left: 1px solid @border_light;
-  border-right: 1px solid @border_dark;
-/* box-shadow: inset 1px 0px @border_bright, inset -1px -1px @border_shade; } */
+  border-right: 1px solid @border_dark; }

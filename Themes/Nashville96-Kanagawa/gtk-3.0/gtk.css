@@ -30,8 +30,8 @@
 @define-color selected_fg_color #c8c093; /* Windows Theme: hilighttext */
 @define-color selected_inactive_bg_color #808080; 
 @define-color selected_inactive_fg_color #2A2A37; 
-@define-color tooltip_bg_color #223249; /* Windows Theme: infowindow, Tooltip background color */ 
-@define-color tooltip_bg_shade #494940; /* Windows Theme: infotext, sometimes text hinting? */
+@define-color tooltip_bg_color #1f1f28; /* Windows Theme: infowindow, Tooltip background color */ 
+@define-color tooltip_bg_shade #2A2A37; /* Windows Theme: infotext, sometimes text hinting? */
 @define-color tooltip_fg_color #dcd7ba; /* Windows Theme: infotext */
 @define-color bg_bright #16161d; /* Windows Theme: window, White inner window/text areas */
 @define-color bg_shade shade(@bg_color, 0.66); 
