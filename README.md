@@ -3,9 +3,14 @@
 	<img src="images/nashville96_logo.png" alt="Screenshot 1"/>
 </p>
 
-A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some infamous color schemes. 
+A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some color schemes. 
 
 **Note:** This was made with both XFCE and MATE on mind, so you may find issues if you are using another DE.
+
+### Included themes
+- **Nashville96 Gruvbox:** A Windows-like theme using the [Gruvbox pallete](https://github.com/morhetz/gruvbox).
+- **Nashville96 Kanagawa:** A Windows-like theme using the [Kanagawa pallete](https://github.com/rebelot/kanagawa.nvim).
+- **Nashville96 Steam:** Included as a bonus, a theme i made ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made enterily in Redmond97 so the tricks at the *Tips and tricks* section may not work.
 
 ### Installation
 1. Download and unzip the latest release and copy the folder of your theme of choice to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
