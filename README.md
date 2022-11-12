@@ -16,6 +16,7 @@ A collection of Windows-like GTK themes based on both [Chicago95](https://github
 1. Download and unzip the latest release of your theme of choice.
 2. Copy the folder of the theme to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
 3. Select the theme with both Appearance and Window Manager. 
+
 **Note:** To install the borderless version, follow the same steps, however it's just the WM theme so just use the Window Manager selector to change it.
 
 ### Tips and tricks
