@@ -20,12 +20,12 @@
 
 /* default color scheme */
 @define-color bg_color #282828; /* Window Theme: buttonface */
-@define-color fg_color #efdbb2; /* Windows Theme: windowtext */
+@define-color fg_color #ebdbb2; /* Windows Theme: windowtext */
 @define-color panel_fg_color #ebdbb2;
 @define-color panel_fg_color_bright #1d2021;
 @define-color base_color #282828; 
-@define-color text_color #efdbb2; /* Windows Theme: windowtext (any white area text)*/
-@define-color text_color_#efdbb2;
+@define-color text_color #ebdbb2; /* Windows Theme: windowtext (any white area text)*/
+@define-color text_color_#ebdbb2;
 @define-color selected_bg_color #3c3836; /* Windows Theme: hilight */
 @define-color selected_fg_color #f5e2a7; /* Windows Theme: hilighttext */
 @define-color selected_inactive_bg_color #808080; 

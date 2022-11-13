@@ -236,7 +236,7 @@ Notes: Modified from WinME theme by Perberos.
 
 		<piece position="title">
 			<draw_ops>
-				<title x="3" y="2" color="#ffffff"/>
+				<title x="3" y="2" color="#ebdbb2"/>
 			</draw_ops>
 		</piece>
 
