@@ -31,15 +31,15 @@
 @define-color selected_inactive_bg_color #808080; 
 @define-color selected_inactive_fg_color #2A2A37; 
 @define-color tooltip_bg_color #1f1f28; /* Windows Theme: infowindow, Tooltip background color */ 
-@define-color tooltip_bg_shade #2A2A37; /* Windows Theme: infotext, sometimes text hinting? */
+@define-color tooltip_bg_shade #3A3A4D; /* Windows Theme: infotext, sometimes text hinting? */
 @define-color tooltip_fg_color #dcd7ba; /* Windows Theme: infotext */
 @define-color bg_bright #16161d; /* Windows Theme: window, White inner window/text areas */
 @define-color bg_shade shade(@bg_color, 0.66); 
 @define-color bg_dark shade(@bg_color, 0.13); 
 @define-color border_color #1f1f28; /* Window Theme: buttonface */
-@define-color border_bright #2a2a37; /* Windows Theme: buttonlight */
+@define-color border_bright #363646; /* Windows Theme: buttonlight */
 @define-color border_light #1f1f28; /* Windows Theme: buttonhilight */
-@define-color border_dark #2a2a37; /* Windows Theme: buttondkshadow */
+@define-color border_dark #3A3A4D; /* Windows Theme: buttondkshadow */
 @define-color border_shade #16161d; /* Windows Theme: buttonshadow */
 @define-color border_shade_dark #080808; 
 @define-color outline_color @text_color; 
