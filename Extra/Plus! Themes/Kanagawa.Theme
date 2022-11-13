@@ -29,7 +29,7 @@ Pattern=(Nenhum)
 TileWallpaper=0
 WallpaperStyle=2
 [AppEvents\Schemes\Apps\.Default\.Default\.Current]
-DefaultValue=
+DefaultValue=%WinDir%media\ding.wav
 [AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\Maximize\.Current]
@@ -45,7 +45,7 @@ DefaultValue=
 [AppEvents\Schemes\Apps\.Default\Close\.Current]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\MailBeep\.Current]
-DefaultValue=
+DefaultValue=%WinDir%media\notify.wav
 [AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
@@ -55,36 +55,36 @@ DefaultValue=
 [AppEvents\Schemes\Apps\.Default\Ringout\.Current]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
-DefaultValue=
+DefaultValue=chord.wav
 [AppEvents\Schemes\Apps\.Default\SystemDefault\.Current]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
-DefaultValue=
+DefaultValue=chord.wav
 [AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
-DefaultValue=
+DefaultValue=chord.wav
 [AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
-DefaultValue=
+DefaultValue=chord.wav
 [AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
-DefaultValue=
+DefaultValue=Sonido de entrada de Windows.wav
 [AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
-DefaultValue=
+DefaultValue=ding.wav
 [Metrics]
-IconMetrics=4 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 168 224 6 0 183 84 51 124 124 1 0 0 0 0 0 0 192 224 6 0 96 106 1 1  
-NonclientMetrics=4 0 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 16 121 9 0 224 221 6 0 136 6 7 0 152 222 6 0 116 126 251 119 88 49 248 119 15 0 0 0 15 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 4 0 0 0 0 0 0 0 22 0 0 0 22 0 0 0 16 223 6 0 1 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 0 0 7 0 120 1 7 0 43 186 252 119 8 6 7 0 177 185 252 119 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 165 58 88 124 0 0 7 0 120 1 7 0 120 1 7 0 120 1 7 0 120 1 7 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 119 0 0 7 0 40 209 8 0 48 209 8 0 232 222 6 0 136 6 7 0 160 223 6 0  
+IconMetrics=4 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 204 224 6 0 62 75 1 121 112 1 0 0 0 0 0 0 228 224 6 0 96 106 1 1     
+NonclientMetrics=4 0 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 232 92 9 0 4 222 6 0 136 6 7 0 188 222 6 0 100 126 73 120 88 49 70 120 15 0 0 0 15 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 4 0 0 0 0 0 0 0 22 0 0 0 22 0 0 0 52 223 6 0 1 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 0 0 7 0 120 1 7 0 43 186 74 120 8 6 7 0 177 185 74 120 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 0 101 58 70 121 0 0 7 0 120 1 7 0 120 1 7 0 120 1 7 0 120 1 7 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 84 97 104 111 109 97 0 120 0 0 7 0 248 121 8 0 0 122 8 0 12 223 6 0 136 6 7 0 196 223 6 0     
 [Control Panel\Colors]
 ActiveTitle=31 31 40
 Background=42 42 55
-Hilight=101 133 148
-HilightText=34 50 73
+Hilight=54 54 70
+HilightText=220 215 186
 TitleText=220 215 186
 Window=22 22 29
 WindowText=220 215 186
 Scrollbar=47 47 60
 InactiveTitle=22 22 29
 Menu=31 31 40
-WindowFrame=220 215 186
+WindowFrame=84 84 109
 MenuText=220 215 186
 ActiveBorder=220 215 186
 InactiveBorder=31 31 40
@@ -94,8 +94,8 @@ ButtonShadow=22 22 29
 GrayText=113 124 124
 ButtonText=220 215 186
 InactiveTitleText=42 42 55
-ButtonHilight=42 42 55
-ButtonDkShadow=42 42 55
+ButtonHilight=54 54 70
+ButtonDkShadow=58 58 77
 ButtonLight=31 31 40
 InfoText=220 215 186
 InfoWindow=34 50 73
@@ -104,8 +104,8 @@ GradientInactiveTitle=22 22 29
 [boot]
 SCRNSAVE.EXE=
 [WebView]
-WVLEFT.BMP=Z:\ARCHIVO\TEMAS DE WINDOWS\Plus! ready themes\Windows Kanagawa V2 WVLEFT.BMP
-WVLINE.GIF=Z:\ARCHIVO\TEMAS DE WINDOWS\Plus! ready themes\Windows Kanagawa V2 WVLINE.GIF
-WVLOGO.GIF=Z:\ARCHIVO\TEMAS DE WINDOWS\Plus! ready themes\Windows Kanagawa V2 WVLOGO.GIF
+WVLEFT.BMP=Z:\Proyectos\GitHub\Nashville96\Extra\Plus! Themes\Kanagawa WVLEFT.BMP
+WVLINE.GIF=Z:\Proyectos\GitHub\Nashville96\Extra\Plus! Themes\Kanagawa WVLINE.GIF
+WVLOGO.GIF=Z:\Proyectos\GitHub\Nashville96\Extra\Plus! Themes\Kanagawa WVLOGO.GIF
 [MasterThemeSelector]
 MTSM=DABJDKT
