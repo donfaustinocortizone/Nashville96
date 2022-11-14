@@ -21,15 +21,15 @@
 /* default color scheme */
 @define-color bg_color #073642; /* Window Theme: buttonface */
 @define-color fg_color #eee8d5; /* Windows Theme: windowtext */
-@define-color panel_fg_color #000000;
-@define-color panel_fg_color_bright #93a1a1;
+@define-color panel_fg_color #eee8d5;
+@define-color panel_fg_color_bright #002b36;
 @define-color base_color #93a1a1; 
 @define-color text_color #eee8d5; /* Windows Theme: windowtext (any white area text)*/
 @define-color text_color_#eee8d5;
 @define-color selected_bg_color #657b83; /* Windows Theme: hilight */
 @define-color selected_fg_color #eee8d5; /* Windows Theme: hilighttext */
-@define-color selected_inactive_bg_color #808080; 
-@define-color selected_inactive_fg_color #000000; 
+@define-color selected_inactive_bg_color #eee8d5; 
+@define-color selected_inactive_fg_color #657b83; 
 @define-color tooltip_bg_color #073642; /* Windows Theme: infowindow, Tooltip background color */ 
 @define-color tooltip_bg_shade #0B5163; /* Windows Theme: infotext, sometimes text hinting? */
 @define-color tooltip_fg_color #eee8d5; /* Windows Theme: infotext */

@@ -28,7 +28,7 @@
 @define-color text_color_#ebdbb2;
 @define-color selected_bg_color #3c3836; /* Windows Theme: hilight */
 @define-color selected_fg_color #f5e2a7; /* Windows Theme: hilighttext */
-@define-color selected_inactive_bg_color #808080; 
+@define-color selected_inactive_bg_color #f5e2a7; 
 @define-color selected_inactive_fg_color #3c3836; 
 @define-color tooltip_bg_color #282828; /* Windows Theme: infowindow, Tooltip background color */ 
 @define-color tooltip_bg_shade #404040; /* Windows Theme: infotext, sometimes text hinting? */

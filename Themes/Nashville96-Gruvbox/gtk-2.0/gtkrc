@@ -8,7 +8,7 @@ text_color:#EBDBB2\
 selected_bg_color:#3c3836\
 selected_fg_color:#f5e2a7\
 tooltip_bg_color:#282828\
-tooltip_fg_color:#D5C4A1000"
+tooltip_fg_color:#D5C4A1"
 ### Begin ###
 
 include "paned.rc"
