@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nashville96-Solarized
+Type=X-GNOME-Metatheme
+Comment=A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the Solarized color scheme.
+
+[X-GNOME-Metatheme]
+GtkTheme=Nashville96-Solarized
+MetacityTheme=Nashville96-Solarized
+IconTheme=SE98
+CursorTheme=Chicago95 Black
+CursorSize=32
+
