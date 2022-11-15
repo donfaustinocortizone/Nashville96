@@ -259,7 +259,7 @@ Notes: Modified from WinME theme by Perberos.
 	<frame_style name="utility_unfocused_style" geometry="utility_geometry" parent="utility_focused_style">
 		<piece position="titlebar">
 			<draw_ops>
-                <rectangle color="#808080" x="0" y="0" width="width-0" height="height-0" filled="true"/>
+                <rectangle color="#C8C093" x="0" y="0" width="width-0" height="height-0" filled="true"/>
 			</draw_ops>
 		</piece>
 		<piece position="title">

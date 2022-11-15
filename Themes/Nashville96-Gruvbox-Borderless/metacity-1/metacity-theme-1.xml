@@ -191,7 +191,7 @@ Notes: Modified from WinME theme by Perberos.
 				<line color="#3c3c3c" x1="1" y1="1" x2="width-2" y2="1" width="1"/>
 				<line color="#282828" x1="width-1" y1="0" x2="width-1" y2="height" width="1"/>
 				<line color="#404040" x1="width-2" y1="1" x2="width-2" y2="height" width="1"/>
-                <rectangle color="#404040" x="4" y="4" width="width-8" height="height-5" filled="true"/>
+                <rectangle color="#1d2021" x="4" y="4" width="width-8" height="height-5" filled="true"/>
 			</draw_ops>
 		</piece>
 		<piece position="title">

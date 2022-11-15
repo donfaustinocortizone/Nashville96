@@ -1,6 +1,6 @@
 # Nashville96
 <p align="center">
-	<img src="images/nashville96_logo.png" alt="Screenshot 1"/>
+	<img src="images/nashville96_logo.png" alt="logo"/>
 </p>
 
 A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some color schemes. 
@@ -10,7 +10,8 @@ A collection of Windows-like GTK themes based on both [Chicago95](https://github
 ### Included themes
 - **Nashville96 Gruvbox:** A Windows-like theme using the [Gruvbox pallete](https://github.com/morhetz/gruvbox).
 - **Nashville96 Kanagawa:** A Windows-like theme using the [Kanagawa pallete](https://github.com/rebelot/kanagawa.nvim).
-- **Nashville96 Steam:** Included as a bonus, a theme i made ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made enterily in Redmond97 so the tricks at the *Tips and tricks* section **will** not work.
+- **Nashville96 Solarized:** A Windows-like theme using the [Solarized pallete](https://github.com/altercation/solarized).
+- **Nashville96 Steam:** Included as a bonus, a theme i made ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made enterily in Redmond97 so the tricks at the *Tips and tricks* section **will not** work.
 
 ### Installation
 1. Download and unzip the latest release of your theme of choice.
@@ -35,21 +36,7 @@ Unlike Chicago95, the desktop icon labels come disabled by default. To revert th
 	  color: @selected_bg_color;
 	  border-radius: 0px; }
 	```		
-5. Save the changes and restart the theme by just choosing another one and then selecting Nashville again.
-
-**Disable right click menu icons**
-
-**Warning:** Doing this will disable the icons from the default applications menu too (not the Whisker menu).
-
-If you want a more accurate experience, you can disable the icons from the right-click menus. To do that, follow this:
-1. Go to where your theme is located which is `~/.themes/` if installed locally, if installed globally then go to `/usr/share/themes`.
-2. Open the folder of the theme you want to change, and then  navigate to `gtk-3.0`.
-3. Open `gtk-menu.css` with your editor of choice.
-4. Under the `menu image, menu menuitem image` selector (inside the `menu` parent selector), uncomment or add the following line:
-	```
-   		 -gtk-icon-transform: scale(0);
-	```
-	**Note:** If you want to enable the icons again, just comment or delete that line.
+5. Save the changes and restart the theme by just choosing another one and then selecting it again.
 
 **Disable CSD**
 
@@ -63,6 +50,7 @@ If you are looking for  Windows-like icons i recommend to use either the [defaul
 <p align="center">
 	<img src="images/screenshot_1.png" alt="Screenshot 1"/>
 	<img src="images/screenshot_2.png" alt="Screenshot 2"/>
+	<img src="images/screenshot_3.png" alt="Screenshot 3"/>
 	<figcaption>
 		<b>Extra information: </b>
 		<ul>
@@ -81,6 +69,7 @@ If you are looking for  Windows-like icons i recommend to use either the [defaul
 - [@matthewmx86](https://github.com/matthewmx86) for [Redmond97](https://github.com/matthewmx86/Redmond97).
 - [@morhetz](https://github.com/morhetz) for the [Gruvbox color scheme](https://github.com/morhetz/gruvbox).
 - [@rebelot](https://github.com/rebelot) for the [Kanagawa color scheme](https://github.com/rebelot/kanagawa.nvim).
+- [@altercation](https://github.com/altercation) for the [Solarized color scheme](https://github.com/altercation/solarized).
 - [@tpenguinltg](https://github.com/tpenguinltg) for [Windows Classic theme designer](https://github.com/tpenguinltg/winclassic).
 
 ### License 

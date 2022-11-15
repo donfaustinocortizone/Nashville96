@@ -141,9 +141,9 @@
 @define-color whisker_menu_logo @bg_shade;
 
 /* XFCE desktop icon colours*/
-@define-color xfd_icon_backdrop #008081;
-@define-color xfd_icon_text #ffffff;
-@define-color xfd_rubberband_outline #ff7f7f;
+@define-color xfd_icon_backdrop #45545B;
+@define-color xfd_icon_text #eee8d5;
+@define-color xfd_rubberband_outline #45545B;
 
 /* Nautilus desktop icon text colour */
 @define-color nautilus_icon_text @base_color;
