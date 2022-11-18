@@ -58,3 +58,11 @@ window > grid > grid > scrolledwindow {
   box-shadow: none;
   color: @font_color;
   text-shadow: none; }
+
+headerbar.titlebar {
+  border-top: 1px solid @border_shade;
+  box-shadow: inset 0px 1px @border_bright; }
+  paned.titlebar headerbar,
+  paned.titlebar .titlebar {
+    border-top: none;
+    box-shadow: none; }
