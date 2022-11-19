@@ -7,7 +7,9 @@ A collection of Windows-like GTK themes based on both [Chicago95](https://github
 
 **Note 1:** This was made with both XFCE and MATE on mind, so you may find issues if you are using another DE.
 
-**Note 2:** This theme is intented to look better with non-CSD settings, if you want to know how to do that please, check in the *Tips and tricks* section.
+**Note 2:** The borderless releases only includes the window manager themes.
+
+**Note 3:** This theme is intented to look better with non-CSD settings. If you want to know how to do that, please check in the *Tips and tricks* section.
 
 ### Included themes
 - **Nashville96 Gruvbox:** A Windows-like theme using the [Gruvbox pallete](https://github.com/morhetz/gruvbox).
