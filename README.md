@@ -6,6 +6,7 @@
 A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some color schemes. 
 
 **Note 1:** This was made with both XFCE and MATE on mind, so you may find issues if you are using another DE.
+
 **Note 2:** This theme is intented to look better with non-CSD settings, if you want to know how to do that please check in the *Tips and tricks* section.
 
 ### Included themes
