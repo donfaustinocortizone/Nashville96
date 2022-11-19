@@ -3,7 +3,7 @@
 	<img src="images/nashville96_logo.png" alt="logo"/>
 </p>
 
-A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some color schemes. If you are interested in knowing how these themes were developed, [check my comment in the original reddit post](www.reddit.com/r/unixporn/comments/yot1si/xfce_chicago95_gruvbox/ivfn4vz/).
+A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some color schemes. If you are interested in knowing how these themes were developed, [check my comment in the original reddit post](https://www.reddit.com/r/unixporn/comments/yot1si/xfce_chicago95_gruvbox/ivfn4vz/).
 
 **Note 1:** This was made with both XFCE and MATE on mind, so you may find issues if you are using another DE.
 
