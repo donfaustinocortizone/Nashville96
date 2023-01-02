@@ -18,7 +18,7 @@ A collection of Windows-like GTK themes based on both [Chicago95](https://github
 2. Copy the folder of the theme to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
 3. Select the theme with both Appearance and Window Manager. 
 
-**Note:** To install the borderless version, follow the same steps, however it's just the WM theme so just use the Window Manager selector to change it.
+**Note:** To install the borderless or/and the HDPI versions, follow the same steps, however it's just the WM theme so just use the Window Manager selector to change it.
 
 ### Tips and tricks
 
@@ -41,6 +41,7 @@ Unlike Chicago95, the desktop icon labels come disabled by default. To revert th
 **Disable CSD**
 
 If you want a more coherent look, you can use [GTK3 classic](https://github.com/lah7/gtk3-classic) or/and [libxfce4ui-nocsd](https://github.com/Xfce-Classic/libxfce4ui-nocsd).
+**Update:** As XFCE 4.18 disables CSD by default, this may be not necessary anymore.
 
 **Windows icons**
 
