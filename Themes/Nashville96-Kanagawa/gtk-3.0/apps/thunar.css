@@ -95,7 +95,7 @@ Make sure that all changes made here are part of the Thunar application.
       margin-bottom: -1px; }
 
 .thunar widget.view:selected {
-  background-color: shade(@selected_bg_color, 3.0); }
+  background-color: @selected_bg_color; }
   .thunar widget.view:selected:focus {
     background-color: @selected_bg_color; }
 

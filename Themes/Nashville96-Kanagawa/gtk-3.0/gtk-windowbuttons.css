@@ -29,7 +29,7 @@ button.titlebutton {
 .titlebutton.close,
 .titlebutton.maximize,
 .titlebutton.minimize {
-  color: @bg_dark;
+  color: @fg_color;
   border: none;
   box-shadow: none;
   padding: 0px;
