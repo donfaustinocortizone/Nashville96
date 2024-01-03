@@ -15,7 +15,7 @@ A collection of Windows-like GTK themes based on both [Chicago95](https://github
 - **Nashville96 Gruvbox:** A Windows-like theme using the [Gruvbox pallete](https://github.com/morhetz/gruvbox).
 - **Nashville96 Kanagawa:** A Windows-like theme using the [Kanagawa pallete](https://github.com/rebelot/kanagawa.nvim).
 - **Nashville96 Solarized:** A Windows-like theme using the [Solarized pallete](https://github.com/altercation/solarized).
-- **Nashville96 Steam:** Included as a bonus, a theme i made ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made enterily in Redmond97 so the tricks at the *Tips and tricks* section **will not** work. This theme is not supported.
+- **Nashville96 Steam:** Included as a bonus, a theme i made ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made enterily in Redmond97 so the tricks at the *Tips and tricks* section **will not** work.
 
 ### Installation
 1. Download and unzip the latest release of your theme of choice.
@@ -46,36 +46,6 @@ Unlike Chicago95, the desktop icon labels come disabled by default. To revert th
 
 If you want a more coherent look, you can use [GTK3 classic](https://github.com/lah7/gtk3-classic) or/and [libxfce4ui-nocsd](https://github.com/Xfce-Classic/libxfce4ui-nocsd).
 **Update:** As XFCE 4.18 disables CSD by default, this may be not necessary anymore.
-
-**Get bitmap accurate fonts**
-
-**Note:** In order to this, you must have a Windows instalation somewhere, it can be in your system, in VM, another setup, etc. If you have access to your Windows partition then this will be more easy.
-
-**Another note:** The following guide was done with Tahoma, i'm not sure if any other fonts will work as intended too.
-
-0. In your Windows partition navigate to where the fonts folder is located (which is usually `C:/Windows/Fonts`). As i said, if you have direct access to the partition from Linux, then you won't need to login in your Windows session.
-1. In the font folder locate both `tahoma.ttf` and `tahomabd.ttf`. You will need to copy both files to where you store your fonts in your Linux system, which is usually `~/.fonts/` for local users.
-2. Now that you copied both font files, you will need to create a folder in `~/.config/` called `fontconfig`. If it already exists, ignore this step.
-3. Inside the `fontconfig` folder, create a file called `fonts.conf`.
-4. Open `fonts.conf` with the editor of your choice and copy the following:
-    ```
-<?xml version="0.0"?>
-<!DOCTYPE fontconfig SYSTEM "urn:fontconfig:fonts.dtd">
-<fontconfig>
-
-  <match target="font">
-    <test name="family" qual="any">
-        <string>Tahoma</string>
-    </test>
-    <edit name="antialias" mode="assign">
-        <bool>false</bool>
-    </edit>
-   </match>
-
-</fontconfig> 
-    ```
-5. This will disable anti-aliasing only on the Tahoma font. If you change of opinion, just delete the file.
-6. Just change your system font to Tahoma and done! Adjust DPI if necessary. 
 
 **Windows icons**
 
