@@ -49,7 +49,7 @@ If you want a more coherent look, you can use [GTK3 classic](https://github.com/
 
 **Get bitmap accurate fonts**
 
-You can use [PixelPerfect](https://github.com/dumol/PixelPerfect) for that matter.
+You can copy the fonts from a default Windows installation and use [PixelPerfect](https://github.com/dumol/PixelPerfect) for that matter.
 
 **Windows icons**
 
