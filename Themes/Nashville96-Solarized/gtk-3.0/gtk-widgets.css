@@ -461,7 +461,7 @@ grid viewport box box textview {
 /* dialog-vbox */
 
 .dialog-vbox {
-  -gtk-icon-style: regular; }
+  -gtk-icon-style: requested; }
 .dialog-vbox flowbox flowboxchild:focus {
   outline-color: @selected_fg_color; }
 
