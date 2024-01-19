@@ -13,12 +13,11 @@
 
 headerbar,
 .titlebar {
-  padding-bottom: 16px;
-  padding-top: 8px;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  padding-left: 6px;
+  padding-right: 6px;	
   min-height: 18px;
-  margin-bottom: 2px;
   background-color: @bg_color;
   background-image: none;
   text-shadow: none; }

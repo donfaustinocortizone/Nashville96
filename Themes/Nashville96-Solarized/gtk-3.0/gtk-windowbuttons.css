@@ -58,12 +58,12 @@ button.titlebutton {
     background-image: url("buttons/csd_maximize_pressed.png"); }
 
 .maximized .titlebutton.maximize  {
-  background-image: url("buttons/csd_minimize_normal.png"); }
+  background-image: url("buttons/csd_restore_normal.png"); }
   .maximized .titlebutton.maximize:backdrop {
-    background-image: url("buttons/csd_minimize_normal.png"); }
+    background-image: url("buttons/csd_restore_normal.png"); }
   .maximized .titlebutton.maximize:checked,
   .maximized .titlebutton.maximize:active  {
-    background-image: url("buttons/csd_minimize_pressed.png"); }
+    background-image: url("buttons/csd_restore_pressed.png"); }
 
 .titlebutton.close {
   background-image: url("buttons/csd_close_normal.png"); }
