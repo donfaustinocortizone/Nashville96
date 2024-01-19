@@ -14,7 +14,7 @@ treeview {
   outline-width: 1px;
   outline-offset: 1px;
   padding: 2px;
-  -gtk-icon-style: regular; }
+  -gtk-icon-style: requested; }
 
 /* outline effects in treeviews are causing issues with the interface expanding on focus and strange graphical artifacts that will stay around. */
 treeview {
@@ -51,10 +51,6 @@ treeview.view {
   border-top-color: @fg_color; }
 treeview.view:selected {
   border-left-color: @theme_selected_fg_color; }
-
-/* Hey Windows95 didn't have arrows in the headerbar either! */
-treeview.view image {
-  color: transparent; }
 
 /* Have to specify this or else bad things happen! */
 treeview.view.separator {

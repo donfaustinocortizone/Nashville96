@@ -10,7 +10,7 @@
 */
 
 .nemo-window {
-  -gtk-icon-style: regular; }
+  -gtk-icon-style: requested; }
 
 .nemo-window toolbar button,
 .nemo-window .toggle {
@@ -82,6 +82,6 @@
       margin-bottom: -1px; }
 
 .nemo-window widget.view:selected {
-  background-color: shade(@selected_bg_color, 3.0); }
+  background-color: @selected_bg_color; }
   .thunar widget.view:selected:focus {
     background-color: @selected_bg_color; }

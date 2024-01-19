@@ -153,7 +153,7 @@ calendar.header {
 /* Calendar week, day label */
 calendar.highlight {
   background-color: @bg_shade;
-  color: @bg_color;
+  color: @selected_fg_color;
   font-weight: bold; }
 
 /* day selected */
@@ -182,16 +182,16 @@ expander arrow {
     background-image: url("assets/arrow-down-selected.png"); }
 
 treeview.view.expander {
-  -gtk-icon-palette: default;
-  -gtk-icon-source: -gtk-icontheme('pane-show-symbolic'); }
+  color: @fg_color;
+  -gtk-icon-source: -gtk-icontheme('pan-start-symbolic'); }
   treeview.view.expander:selected {
     color: @selected_fg_color;
-    -gtk-icon-source: -gtk-icontheme('pane-show-symbolic'); }
+    -gtk-icon-source: -gtk-icontheme('pan-end-symbolic'); }
   treeview.view.expander:checked {
-    -gtk-icon-source: -gtk-icontheme('pane-hide-symbolic'); }
+    -gtk-icon-source: -gtk-icontheme('pan-down-symbolic'); }
   treeview.view.expander:checked:selected {
     color: @selected_fg_color;
-    -gtk-icon-source: -gtk-icontheme('pane-hide-symbolic'); }
+    -gtk-icon-source: -gtk-icontheme('pan-down-symbolic'); }
 
 /************
  * iconview *
