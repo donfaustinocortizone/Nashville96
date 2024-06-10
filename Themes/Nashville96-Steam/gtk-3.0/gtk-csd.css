@@ -142,11 +142,15 @@ headerbar button:hover {
 .maximize:active {
   background-image: url("assets/maximize_pressed.png"); }
 
+.maximized .maximize, .maximized .maximize:hover, .maximized .maximize:backdrop,
 .restore, .restore:hover, .restore:backdrop {
   background-image: url("assets/restore_normal.png");
   margin-top: 4px;
   margin-left: -5px;
   margin-right: -5px; }
+
+.maximized .maximize:active {
+  background-image: url("assets/restore_pressed.png"); }
 
 .close, .close:hover, .close:backdrop {
   margin-left: -4px;
