@@ -51,6 +51,11 @@ treeview.view {
   border-top-color: @fg_color; }
 treeview.view:selected {
   border-left-color: @theme_selected_fg_color; }
+treeview.view:selected:focus {
+  border-top: 1px dotted @fg_color;
+  border-bottom: 1px dotted @fg_color;
+  border-left: 1px dotted @fg_color;
+  border-right: 1px dotted @fg_color; }
 
 /* Have to specify this or else bad things happen! */
 treeview.view.separator {
