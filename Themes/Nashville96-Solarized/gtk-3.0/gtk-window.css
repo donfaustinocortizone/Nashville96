@@ -34,7 +34,7 @@ window.ssd .titlebar {
   window.ssd .titlebar:backdrop {
     padding: 0px;
     margin: 0px;
-    background-color: @selected_inactive_bg_color;
+    background-color: @inactive_title_bg_color;
    color: @inactive_title_text_color; }
   window.ssd .titlebar label {
     padding: 0px;
